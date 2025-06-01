@@ -4,3 +4,8 @@
 ```console
 https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/index.html
 ```
+
+### Youtube lecture on SIS, LWE:
+```bash
+https://youtu.be/SsKfGn1YKlg
+```
